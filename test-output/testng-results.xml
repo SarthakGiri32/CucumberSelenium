@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Flow Start Date and Time: Sun Mar 20 19:03:10 IST 2022]]>
+    </line>
+    <line>
+      <![CDATA[Website load: "https://www.verizon.com/"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_SHOP"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_PREPAID_MENU"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_PREPAID_OVERVIEW"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_BYOD"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_JOIN"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_SMARTPHONE_DEVICE"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_CONTINUE_BUTTON"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_I_DONT_KNOW"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Sending Key to: "VERIZON_IMEI_NUMBER_FIELD"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_CHECK_MY_DEVICE"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_ADD_SIM"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Sending Key to: "VERIZON_ZIP_CODE_FIELD"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_REMEMBER_MY_LOCATION"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_CONFIRM_LOCATION"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_LINE_PLAN"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_SELECT_PLAN"... SUCCESSFUL!]]>
+    </line>
+    <line>
+      <![CDATA[Button click: "VERIZON_DECLINE_INTERNATIONAL_PLAN"... SUCCESSFUL!]]>
+    </line>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="136143" started-at="2022-03-20T19:03:09 IST" finished-at="2022-03-20T19:05:25 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="/home/sarthakgiri/Documents/java-workspace/CucumberSelenium" duration-ms="136143" started-at="2022-03-20T19:03:09 IST" finished-at="2022-03-20T19:05:25 IST">
+      <class name="co.wipro.selenium.automation.execution.FlowExecutor">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="setUpClass" is-config="true" duration-ms="914" started-at="2022-03-20T19:03:09 IST" finished-at="2022-03-20T19:03:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4d2a1da3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="runScenario" duration-ms="132682" started-at="2022-03-20T19:03:10 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-20T19:05:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Order a Prepaid SIM and plan for a phone"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Prepaid NSO]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Flow Start Date and Time: Sun Mar 20 19:03:10 IST 2022]]>
+            </line>
+            <line>
+              <![CDATA[Website load: "https://www.verizon.com/"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_SHOP"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_PREPAID_MENU"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_PREPAID_OVERVIEW"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_BYOD"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_JOIN"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_SMARTPHONE_DEVICE"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_CONTINUE_BUTTON"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_I_DONT_KNOW"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Sending Key to: "VERIZON_IMEI_NUMBER_FIELD"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_CHECK_MY_DEVICE"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_ADD_SIM"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Sending Key to: "VERIZON_ZIP_CODE_FIELD"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_REMEMBER_MY_LOCATION"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_CONFIRM_LOCATION"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_LINE_PLAN"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_SELECT_PLAN"... SUCCESSFUL!]]>
+            </line>
+            <line>
+              <![CDATA[Button click: "VERIZON_DECLINE_INTERNATIONAL_PLAN"... SUCCESSFUL!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="tearDownClass" is-config="true" duration-ms="2503" started-at="2022-03-20T19:05:23 IST" finished-at="2022-03-20T19:05:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- co.wipro.selenium.automation.execution.FlowExecutor -->
+    </test> <!-- /home/sarthakgiri/Documents/java-workspace/CucumberSelenium -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
