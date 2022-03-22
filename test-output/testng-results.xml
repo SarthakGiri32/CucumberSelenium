@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[Flow Start Date and Time: Sun Mar 20 19:03:10 IST 2022]]>
+      <![CDATA[Flow Start Date and Time: Tue Mar 22 14:37:15 IST 2022]]>
     </line>
     <line>
       <![CDATA[Website load: "https://www.verizon.com/"... SUCCESSFUL!]]>
@@ -59,15 +59,15 @@
       <![CDATA[Button click: "VERIZON_DECLINE_INTERNATIONAL_PLAN"... SUCCESSFUL!]]>
     </line>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="136143" started-at="2022-03-20T19:03:09 IST" finished-at="2022-03-20T19:05:25 IST">
+  <suite name="All Test Suite" duration-ms="153176" started-at="2022-03-22T14:37:14 IST" finished-at="2022-03-22T14:39:47 IST">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="/home/sarthakgiri/Documents/java-workspace/CucumberSelenium" duration-ms="136143" started-at="2022-03-20T19:03:09 IST" finished-at="2022-03-20T19:05:25 IST">
+    <test name="/home/sarthakgiri/Documents/java-workspace/CucumberSelenium" duration-ms="153176" started-at="2022-03-22T14:37:14 IST" finished-at="2022-03-22T14:39:47 IST">
       <class name="co.wipro.selenium.automation.execution.FlowExecutor">
-        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="setUpClass" is-config="true" duration-ms="914" started-at="2022-03-20T19:03:09 IST" finished-at="2022-03-20T19:03:10 IST">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="setUpClass" is-config="true" duration-ms="993" started-at="2022-03-22T14:37:14 IST" finished-at="2022-03-22T14:37:15 IST">
           <params>
             <param index="0">
               <value>
@@ -78,7 +78,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="runScenario" duration-ms="132682" started-at="2022-03-20T19:03:10 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-20T19:05:23 IST">
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="runScenario" duration-ms="148134" started-at="2022-03-22T14:37:15 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T14:39:43 IST">
           <params>
             <param index="0">
               <value>
@@ -93,7 +93,7 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[Flow Start Date and Time: Sun Mar 20 19:03:10 IST 2022]]>
+              <![CDATA[Flow Start Date and Time: Tue Mar 22 14:37:15 IST 2022]]>
             </line>
             <line>
               <![CDATA[Website load: "https://www.verizon.com/"... SUCCESSFUL!]]>
@@ -151,7 +151,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="tearDownClass" is-config="true" duration-ms="2503" started-at="2022-03-20T19:05:23 IST" finished-at="2022-03-20T19:05:25 IST">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:co.wipro.selenium.automation.execution.FlowExecutor@4e1d422d]" name="tearDownClass" is-config="true" duration-ms="4001" started-at="2022-03-22T14:39:43 IST" finished-at="2022-03-22T14:39:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
