@@ -2,7 +2,7 @@
 	{
 		"commonVariables": {
 			"verizonHomePage": "https://www.verizon.com/",
-			"chromeDriveLocation": "/home/sarthakgiri/Downloads/Softwares/chromedriver",
+			"chromeDriveLocation": "src/test/resources/chromedriver.exe",
 			"seleniumWaitTime": "30",
 			"pageLoadDelay": "10000"
 		}
